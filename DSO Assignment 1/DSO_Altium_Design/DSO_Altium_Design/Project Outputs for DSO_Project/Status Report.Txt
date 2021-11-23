@@ -1,0 +1,11 @@
+Output: PADS ASCII Netlist
+Type  : PADSNetlist
+From  : Project [DSO_Project.PrjPCB]
+   Generated File[DSO_Project.NET]
+   Generated File[DSO_Project.PRT]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 0:44:35 On 2021/9/4
